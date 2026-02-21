@@ -24,7 +24,7 @@ class Menu extends Phaser.Scene {
         //load all audio
         this.load.audio('playMusic', './assets/audio/Surf Rock Light Loop.wav')
         this.load.audio('flipsfx', './assets/audio/flip.wav')
-        this.load.audio('astroidHit', './assets/audio/astroidHit.wav')
+        this.load.audio('astroidHit', './assets/audio/astroidHIt.wav')
         this.load.audio('starAsfx', './assets/audio/starA.wav')
         this.load.audio('starBsfx', './assets/audio/starB.wav')
         this.load.audio('starCsfx', './assets/audio/starC.wav')
